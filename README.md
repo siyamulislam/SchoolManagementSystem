@@ -3,13 +3,13 @@
   ![image](https://user-images.githubusercontent.com/53119070/172634234-522f07e3-4f6d-4abe-858a-b927be48e9ad.png)
 
   
-  Existing System:
+  <h2>  Existing System:</h2>
 School Management System (SMS) is based on a student, teacher other events in database. This project developed by NetBeans with java Language. In our project we include Academic Information, Service& facilitates, useful apps & web for student & teachers, events, Class routine, Notice Board, Library, Student portal, Administrator panel   Student Information Teacher Information, Admission system Admission circular etc.  
 In the project have two access level, those are student portal & administrator panel.
 For student log in student must have to get a username and password from Administrator, A student can access student information by searching Id number.  From student portal student can also view class routine.
 For Administrator panel admin have to login by valid username and password. From Administrator panel admin can view student information & teacher information. There Admin can insert, update & of any student or teacher. 
 
-Objective:
+<h2> Objective: </h2>
 The overall aim of the project was to develop a school management methodology
 which is applicable to high schools in all students & Teacher and to improve the effectiveness of schools according to demands of the knowledge-based society.
 The specific objectives were:
@@ -22,15 +22,15 @@ Student can view everything in this application. Finally, our plan is  to make a
 
 
 
-
-Motivation:
+<h2> Motivation: </h2> 
 As everywhere everyone wants things to be done in an easier and faster way, so I worked on a developed strategy which aims the development of administrative and management structures in all the high schools of the country.
 
 Bangladesh Government is working on a developed strategy which aims the development of ICT structures in all the high schools of the country.
 
 Most of the high schools are already equipped with necessary hardware and network structures under the supervision of the Ministry of Education.
 
-Goals:
+ <h2> Goals: </h2> 
+
  Managing information on students,
  Employees,
  Teaching Processes
@@ -38,8 +38,8 @@ Goals:
  etc...
 
 
+<h2> #Implementation: </h2> 
 
-#Implementation:
 This system development purpose it uses simple to use & easily available technology. This system is based on windows like interface, which is very easy to use. This system developed by NetBeans.
 Programming language JAVA & Database stored in SQL  by XAMPP server. XAMPP makes my pc as local host.
 The project implantation in Object-Oriented Modeling technique.
@@ -62,7 +62,8 @@ The main important part of this section is there having two-way connection admin
 Equally Teacher information parts is implemented.
 Besides Logo, banner, & picture created & modified by Adobe Photoshop. 
   
-#Future code:
+  <h2>Future code </h2>
+  
 • Make the system more user friendly.
 • Complete automation of all department of the school.
 • Incorporate other services such as online transportation management, online exam system etc.
@@ -72,7 +73,8 @@ Besides Logo, banner, & picture created & modified by Adobe Photoshop.
 • Make a website.
 • Make the system accessible through cell phone or tablets
 
-#Conclusion: 
+    <h2>Conclusion</h2>
+
 •A School Management System is a large database system which can be used for managing school's daily work.
  •School Management Systems are being identified as an appropriate method for managing information in schools.
 • SMS was built based on real life situations in Nirjhor public School, Dhaka, taking into consideration all possible situations and functionalities of the daily work in these schools.
