@@ -73,7 +73,7 @@ Besides Logo, banner, & picture created & modified by Adobe Photoshop.
 • Make a website.
 • Make the system accessible through cell phone or tablets
 
-    <h2>Conclusion</h2>
+   <h2> Conclusion </h2>
 
 •A School Management System is a large database system which can be used for managing school's daily work.
  •School Management Systems are being identified as an appropriate method for managing information in schools.
